@@ -1,6 +1,6 @@
 ---
 title:  "Introduction to R"
-output: html_notebook
+output: rmarkdown::github_document
 ---
 
 
